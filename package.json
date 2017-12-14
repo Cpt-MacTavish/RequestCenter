@@ -1,6 +1,5 @@
 {
   "name": "GupeiNew_App",
   "version": "0.0.1",
-  "forbidden": false,
-  "displayed":true
+  "forbidden": true
 }
