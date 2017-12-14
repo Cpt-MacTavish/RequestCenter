@@ -1,5 +1,5 @@
 {
   "name": "GupeiNew_App",
   "version": "0.0.1",
-  "forbidden": true
+  "forbidden": false //true:显示majia false:显示实际web
 }
